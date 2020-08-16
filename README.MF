@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-songuongyuan is good
-=======
-luban is good main4
+luban is good main5
 soongyongyuan is good main
->>>>>>> master
