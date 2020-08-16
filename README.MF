@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-luban is good main3
-=======
 luban is good main4
->>>>>>> 1efa56d92e059f2505d89da4956e40eaf3d48313
 soongyongyuan is good main
